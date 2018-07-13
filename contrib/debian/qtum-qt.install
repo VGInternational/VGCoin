@@ -1,0 +1,6 @@
+usr/local/bin/VGCoin-qt usr/bin
+share/pixmaps/Predix32.xpm usr/share/pixmaps
+share/pixmaps/Predix16.xpm usr/share/pixmaps
+share/pixmaps/Predix128.png usr/share/pixmaps
+debian/VGCoin-qt.desktop usr/share/applications
+debian/VGCoin-qt.protocol usr/share/kde4/services/

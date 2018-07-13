@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoin Core
+Comment=Connect to the VGCoin P2P Network
+Exec=VGCoin-qt %u
+Terminal=false
+Type=Application
+Icon=Predix128
+MimeType=x-scheme-handler/VGCoin;
+Categories=Office;Finance;
